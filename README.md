@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Venom&height=300&text=penguin2ip👀)
+![header](https://capsule-render.vercel.app/api?type=Venom&height=300&text=🐛버그는%20고쳐야지🔨)
+<!-- 이모지 url - https://gist.github.com/rxaviers/7360908 -->
 
 ### Tech Stack Badge 🌟
 <div>

@@ -3,16 +3,22 @@
 ![header](https://capsule-render.vercel.app/api?type=Wave&height=300&text=🐛버그는%20고쳐야지🔨-nl-웹개발/백엔드%20화이팅)
 <!-- 이모지 url - https://gist.github.com/rxaviers/7360908 -->
 
-### Tech Stack Badge 🌟
+### Portfolio 🎨
+<a href="https://www.notion.so/Back-End-Web-b2921f1340834565833935684d7061de?pvs=4">
+  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</a>
+
+### Tech Stack Badge 📚
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <br/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
 </div>
 
 ### Top Languages Card 🌟
@@ -20,8 +26,6 @@
 
 ### Github Stats Card 🌟
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmjkmj20055&show_icons=true&theme=transparent)
-
-
 
 
 
